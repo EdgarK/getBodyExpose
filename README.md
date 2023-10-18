@@ -1,4 +1,5 @@
-Simple tool to see the body of a get request
+#Simple tool to see the body of a get request
+
 install:
 
 npm i
